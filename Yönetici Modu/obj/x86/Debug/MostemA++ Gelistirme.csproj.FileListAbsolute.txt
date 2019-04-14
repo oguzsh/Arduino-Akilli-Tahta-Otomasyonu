@@ -1,0 +1,204 @@
+c:\users\pc\documents\visual studio 2010\Projects\MostemA++ Gelistirme\MostemA++ Gelistirme\bin\Debug\MostemA++ Gelistirme.exe
+c:\users\pc\documents\visual studio 2010\Projects\MostemA++ Gelistirme\MostemA++ Gelistirme\bin\Debug\MostemA++ Gelistirme.pdb
+c:\users\pc\documents\visual studio 2010\Projects\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Form1.resources
+c:\users\pc\documents\visual studio 2010\Projects\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2010\Projects\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA++ Gelistirme.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2010\Projects\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA++ Gelistirme.exe
+c:\users\pc\documents\visual studio 2010\Projects\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA++ Gelistirme.pdb
+c:\users\pc\documents\visual studio 2010\Projects\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Form2.resources
+c:\users\pc\documents\visual studio 2010\Projects\MostemA++ Gelistirme\MostemA++ Gelistirme\bin\Debug\tr-TR\MostemA++ Gelistirme.resources.dll
+c:\users\pc\documents\visual studio 2010\Projects\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Form2.tr-TR.resources
+c:\users\pc\documents\visual studio 2010\Projects\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\tr-TR\MostemA++ Gelistirme.resources.dll
+c:\users\pc\documents\visual studio 2010\Projects\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Güvenlik.resources
+c:\users\pc\documents\visual studio 2010\Projects\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Info.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\PROJELER\AKILLI TAHTA PROJECTS\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA++ Gelistirme.exe
+C:\Users\pc\Desktop\OĞUZHAN OKUL\PROJELER\AKILLI TAHTA PROJECTS\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA++ Gelistirme.pdb
+C:\Users\pc\Desktop\OĞUZHAN OKUL\PROJELER\AKILLI TAHTA PROJECTS\MostemA++ Gelistirme\MostemA++ Gelistirme\bin\Debug\MostemA++ Gelistirme.exe
+C:\Users\pc\Desktop\OĞUZHAN OKUL\PROJELER\AKILLI TAHTA PROJECTS\MostemA++ Gelistirme\MostemA++ Gelistirme\bin\Debug\MostemA++ Gelistirme.pdb
+C:\Users\pc\Desktop\OĞUZHAN OKUL\PROJELER\AKILLI TAHTA PROJECTS\MostemA++ Gelistirme\MostemA++ Gelistirme\bin\Debug\tr-TR\MostemA++ Gelistirme.resources.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\PROJELER\AKILLI TAHTA PROJECTS\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Form1.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\PROJELER\AKILLI TAHTA PROJECTS\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Form2.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\PROJELER\AKILLI TAHTA PROJECTS\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Güvenlik.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\PROJELER\AKILLI TAHTA PROJECTS\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Info.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\PROJELER\AKILLI TAHTA PROJECTS\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Properties.Resources.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\PROJELER\AKILLI TAHTA PROJECTS\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Form2.tr-TR.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\PROJELER\AKILLI TAHTA PROJECTS\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA++ Gelistirme.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\OĞUZHAN OKUL\PROJELER\AKILLI TAHTA PROJECTS\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\tr-TR\MostemA++ Gelistirme.resources.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\PROJELER\AKILLI TAHTA PROJECTS\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA++ Gelistirme.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\OĞUZHAN OKUL\PROJELER\AKILLI TAHTA PROJECTS\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.elektrik.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\PROJELER\AKILLI TAHTA PROJECTS\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.webkonferans.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\PROJELER\AKILLI TAHTA PROJECTS\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.duyuru.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\PROJELER\AKILLI TAHTA PROJECTS\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.kameralar.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\PROJELER\AKILLI TAHTA PROJECTS\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.kamerakontrolu.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\PROJELER\AKILLI TAHTA PROJECTS\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.kameragüvenlik.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA++ Gelistirme.exe
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA++ Gelistirme.pdb
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ Gelistirme\bin\Debug\MostemA++ Gelistirme.exe
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA++ Gelistirme.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.duyuru.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.elektrik.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Form1.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Form2.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Güvenlik.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Info.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.kameragüvenlik.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.kamerakontrolu.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.kameralar.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Properties.Resources.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.webkonferans.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Form2.tr-TR.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA++ Gelistirme.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\tr-TR\MostemA++ Gelistirme.resources.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\Yeni klasör\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA++ Gelistirme.exe
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\Yeni klasör\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA++ Gelistirme.pdb
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\Yeni klasör\MostemA++ Gelistirme\MostemA++ Gelistirme\bin\Debug\MostemA++ Gelistirme.exe
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\Yeni klasör\MostemA++ Gelistirme\MostemA++ Gelistirme\bin\Debug\MostemA++ Gelistirme.pdb
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\Yeni klasör\MostemA++ Gelistirme\MostemA++ Gelistirme\bin\Debug\tr-TR\MostemA++ Gelistirme.resources.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\Yeni klasör\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA++ Gelistirme.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\Yeni klasör\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.duyuru.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\Yeni klasör\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.elektrik.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\Yeni klasör\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Form1.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\Yeni klasör\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Form2.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\Yeni klasör\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Güvenlik.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\Yeni klasör\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Info.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\Yeni klasör\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.kameragüvenlik.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\Yeni klasör\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.kamerakontrolu.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\Yeni klasör\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.kameralar.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\Yeni klasör\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Properties.Resources.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\Yeni klasör\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.webkonferans.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\Yeni klasör\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Form2.tr-TR.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\Yeni klasör\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\MostemA++ Gelistirme.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\Yeni klasör\MostemA++ Gelistirme\MostemA++ Gelistirme\obj\x86\Debug\tr-TR\MostemA++ Gelistirme.resources.dll
+C:\Users\pc\Desktop\MostemA++ Gelistirme\obj\x86\Debug\MostemA++ Gelistirme.exe
+C:\Users\pc\Desktop\MostemA++ Gelistirme\obj\x86\Debug\MostemA++ Gelistirme.pdb
+C:\Users\pc\Desktop\MostemA++ Gelistirme\bin\Debug\MostemA++ Gelistirme.exe
+C:\Users\pc\Desktop\MostemA++ Gelistirme\bin\Debug\MostemA++ Gelistirme.pdb
+C:\Users\pc\Desktop\MostemA++ Gelistirme\bin\Debug\tr-TR\MostemA++ Gelistirme.resources.dll
+C:\Users\pc\Desktop\MostemA++ Gelistirme\obj\x86\Debug\MostemA++ Gelistirme.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.duyuru.resources
+C:\Users\pc\Desktop\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.elektrik.resources
+C:\Users\pc\Desktop\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Form1.resources
+C:\Users\pc\Desktop\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Form2.resources
+C:\Users\pc\Desktop\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Güvenlik.resources
+C:\Users\pc\Desktop\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Info.resources
+C:\Users\pc\Desktop\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.kameragüvenlik.resources
+C:\Users\pc\Desktop\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.kamerakontrolu.resources
+C:\Users\pc\Desktop\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.kameralar.resources
+C:\Users\pc\Desktop\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Properties.Resources.resources
+C:\Users\pc\Desktop\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.webkonferans.resources
+C:\Users\pc\Desktop\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Form2.tr-TR.resources
+C:\Users\pc\Desktop\MostemA++ Gelistirme\obj\x86\Debug\MostemA++ Gelistirme.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\MostemA++ Gelistirme\obj\x86\Debug\tr-TR\MostemA++ Gelistirme.resources.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\MostemA++ Gelistirme\obj\x86\Debug\MostemA++ Gelistirme.exe
+C:\Users\pc\Desktop\OĞUZHAN OKUL\MostemA++ Gelistirme\obj\x86\Debug\MostemA++ Gelistirme.pdb
+C:\Users\pc\Desktop\OĞUZHAN OKUL\MostemA++ V7.0\MostemA++ Gelistirme\obj\x86\Debug\MostemA++ Gelistirme.exe
+C:\Users\pc\Desktop\OĞUZHAN OKUL\MostemA++ V7.0\MostemA++ Gelistirme\obj\x86\Debug\MostemA++ Gelistirme.pdb
+C:\Users\pc\Desktop\OĞUZHAN OKUL\MostemA++ V7.0\MostemA++ Gelistirme\bin\Debug\MostemA++ Gelistirme.exe.config
+C:\Users\pc\Desktop\OĞUZHAN OKUL\MostemA++ V7.0\MostemA++ Gelistirme\bin\Debug\MostemA++ Gelistirme.exe
+C:\Users\pc\Desktop\OĞUZHAN OKUL\MostemA++ V7.0\MostemA++ Gelistirme\bin\Debug\MostemA++ Gelistirme.pdb
+C:\Users\pc\Desktop\OĞUZHAN OKUL\MostemA++ V7.0\MostemA++ Gelistirme\bin\Debug\tr-TR\MostemA++ Gelistirme.resources.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\MostemA++ V7.0\MostemA++ Gelistirme\bin\Debug\MetroFramework.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\MostemA++ V7.0\MostemA++ Gelistirme\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\MostemA++ V7.0\MostemA++ Gelistirme\obj\x86\Debug\MostemA++ Gelistirme.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\OĞUZHAN OKUL\MostemA++ V7.0\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.duyuru.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\MostemA++ V7.0\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.elektrik.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\MostemA++ V7.0\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Form1.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\MostemA++ V7.0\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Form2.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\MostemA++ V7.0\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Güvenlik.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\MostemA++ V7.0\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Info.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\MostemA++ V7.0\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.kameragüvenlik.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\MostemA++ V7.0\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.kamerakontrolu.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\MostemA++ V7.0\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Properties.Resources.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\MostemA++ V7.0\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.webkonferans.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\MostemA++ V7.0\MostemA++ Gelistirme\obj\x86\Debug\MostemA___Gelistirme.Form2.tr-TR.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\MostemA++ V7.0\MostemA++ Gelistirme\obj\x86\Debug\MostemA++ Gelistirme.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\OĞUZHAN OKUL\MostemA++ V7.0\MostemA++ Gelistirme\obj\x86\Debug\tr-TR\MostemA++ Gelistirme.resources.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ Gelistirme\bin\Debug\MostemA++ Gelistirme.exe.config
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V8.0 - DEVAM EDİYOR\bin\Debug\MostemA++ Gelistirme.exe.config
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V8.0 - DEVAM EDİYOR\obj\x86\Debug\MostemA++ Gelistirme.exe
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V8.0 - DEVAM EDİYOR\obj\x86\Debug\MostemA++ Gelistirme.pdb
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V8.0 - DEVAM EDİYOR\bin\Debug\MostemA++ Gelistirme.exe
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V8.0 - DEVAM EDİYOR\bin\Debug\MostemA++ Gelistirme.pdb
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V8.0 - DEVAM EDİYOR\bin\Debug\tr-TR\MostemA++ Gelistirme.resources.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V8.0 - DEVAM EDİYOR\bin\Debug\MetroFramework.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V8.0 - DEVAM EDİYOR\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V8.0 - DEVAM EDİYOR\obj\x86\Debug\MostemA++ Gelistirme.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V8.0 - DEVAM EDİYOR\obj\x86\Debug\MostemA___Gelistirme.duyuru.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V8.0 - DEVAM EDİYOR\obj\x86\Debug\MostemA___Gelistirme.elektrik.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V8.0 - DEVAM EDİYOR\obj\x86\Debug\MostemA___Gelistirme.Form1.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V8.0 - DEVAM EDİYOR\obj\x86\Debug\MostemA___Gelistirme.Form2.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V8.0 - DEVAM EDİYOR\obj\x86\Debug\MostemA___Gelistirme.Güvenlik.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V8.0 - DEVAM EDİYOR\obj\x86\Debug\MostemA___Gelistirme.Info.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V8.0 - DEVAM EDİYOR\obj\x86\Debug\MostemA___Gelistirme.kameragüvenlik.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V8.0 - DEVAM EDİYOR\obj\x86\Debug\MostemA___Gelistirme.kamerakontrolu.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V8.0 - DEVAM EDİYOR\obj\x86\Debug\MostemA___Gelistirme.Properties.Resources.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V8.0 - DEVAM EDİYOR\obj\x86\Debug\MostemA___Gelistirme.webkonferans.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V8.0 - DEVAM EDİYOR\obj\x86\Debug\MostemA___Gelistirme.Form2.tr-TR.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V8.0 - DEVAM EDİYOR\obj\x86\Debug\MostemA++ Gelistirme.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V8.0 - DEVAM EDİYOR\obj\x86\Debug\tr-TR\MostemA++ Gelistirme.resources.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\MostemA++ Gelistirme.exe.config
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA++ Gelistirme.exe
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA++ Gelistirme.pdb
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\MostemA++ Gelistirme.exe
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\MostemA++ Gelistirme.pdb
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\tr-TR\MostemA++ Gelistirme.resources.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\MetroFramework.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA++ Gelistirme.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.basitscadasiniflar.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.duyuru.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.elektrik.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.Form1.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.Form2.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.Güvenlik.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.Info.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.kameragüvenlik.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.kamerakontrolu.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.Properties.Resources.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.webkonferans.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.Form2.tr-TR.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA++ Gelistirme.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\tr-TR\MostemA++ Gelistirme.resources.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA XD\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.basitscadaatolyeler.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\MostemA++ Gelistirme.exe.config
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA++ Gelistirme.exe
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA++ Gelistirme.pdb
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\MostemA++ Gelistirme.exe
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\MostemA++ Gelistirme.pdb
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\tr-TR\MostemA++ Gelistirme.resources.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\MetroFramework.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA++ Gelistirme.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.basitscadaatolyeler.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.basitscadasiniflar.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.duyuru.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.elektrik.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.Form1.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.Form2.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.Güvenlik.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.Info.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.kameragüvenlik.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.kamerakontrolu.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.Properties.Resources.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.webkonferans.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.Form2.tr-TR.resources
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA++ Gelistirme.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\OĞUZHAN OKUL\TEK KLASÖR BİNLERCE DOSYA O_O\Programlama\PROJELER\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\tr-TR\MostemA++ Gelistirme.resources.dll

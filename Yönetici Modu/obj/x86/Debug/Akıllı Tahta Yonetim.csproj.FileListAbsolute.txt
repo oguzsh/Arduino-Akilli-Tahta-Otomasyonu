@@ -1,0 +1,22 @@
+C:\Users\pc\Desktop\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\Akıllı Tahta Yonetim.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.basitscadaatolyeler.resources
+C:\Users\pc\Desktop\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.basitscadasiniflar.resources
+C:\Users\pc\Desktop\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.Form1.resources
+C:\Users\pc\Desktop\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.Form2.resources
+C:\Users\pc\Desktop\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.kameragüvenlik.resources
+C:\Users\pc\Desktop\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.kamerakontrolu.resources
+C:\Users\pc\Desktop\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.Properties.Resources.resources
+C:\Users\pc\Desktop\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.webkonferans.resources
+C:\Users\pc\Desktop\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA___Gelistirme.Form2.tr-TR.resources
+C:\Users\pc\Desktop\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\Akıllı Tahta Yonetim.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\Akıllı Tahta Yonetim.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA++ Gelistirme.exe
+C:\Users\pc\Desktop\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\MostemA++ Gelistirme.pdb
+C:\Users\pc\Desktop\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\MostemA++ Gelistirme.exe.config
+C:\Users\pc\Desktop\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\MostemA++ Gelistirme.exe
+C:\Users\pc\Desktop\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\MostemA++ Gelistirme.pdb
+C:\Users\pc\Desktop\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\tr-TR\MostemA++ Gelistirme.resources.dll
+C:\Users\pc\Desktop\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\MetroFramework.dll
+C:\Users\pc\Desktop\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\pc\Desktop\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\tr-TR\MostemA++ Gelistirme.resources.dll
+C:\Users\pc\Desktop\Mostem A++\MostemA++ Gelistirme\MostemA++ V9.0\Yönetici Modu\obj\x86\Debug\Akıllı Tahta Yonetim.csproj.CopyComplete
